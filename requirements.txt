@@ -1,0 +1,5 @@
+customtkinter>=5.2.2
+yt-dlp>=2025.1.15
+imageio-ffmpeg>=0.6.0
+Pillow>=10.4.0
+tkwry>=0.1.9
